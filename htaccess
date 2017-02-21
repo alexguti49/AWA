@@ -1,0 +1,21 @@
+<Files .htaccess>
+Order allow,deny
+Deny from all
+</Files>
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php 
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.awa.hol.es
+RewriteRule (.*) http://awa.hol.es/$1 [R=301,L]
+
+RewriteEngine On
+RewriteRule ^([a-zA-Z0-9_-]+)$ users.php?user=$1
+RewriteRule ^([a-zA-Z0-9_-]+)/$ users.php?user=$1
+
+RewriteEngine On
+RewriteRule ^([a-zA-Z0-9_-]+)/([0-9]+)$ users.php?user=$1&page=$2
+RewriteRule ^([a-zA-Z0-9_-]+)/([0-9]+)/$ users.php?user=$1&page=$2

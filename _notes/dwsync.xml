@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="conexion.php" server="C:/xampp/htdocs/Xampp7/" local="131143769442622236" remote="131143769440000000" Dst="0" />
+<file name="cifrado.php" server="C:/xampp/htdocs/Xampp7/" local="131151672932064977" remote="131151672930000000" Dst="0" />
+<file name="mensajeria_configuracion.php" server="C:/xampp/htdocs/Xampp7/" local="131103119317687865" remote="131103119310000000" Dst="0" />
+<file name="mensajeria_grupos.php" server="C:/xampp/htdocs/Xampp7/" local="131136196556793960" remote="131136196550000000" Dst="0" />
+<file name="mensajeria_envio.php" server="C:/xampp/htdocs/Xampp7/" local="131100794410000000" remote="131100794410000000" Dst="0" />
+<file name="mensajeria.php" server="C:/xampp/htdocs/Xampp7/" local="131148463819284853" remote="131148463810000000" Dst="0" />
+<file name="usuarios.php" server="C:/xampp/htdocs/Xampp7/" local="131148782842694899" remote="131148782840000000" Dst="0" />
+<file name="inicio.php" server="C:/xampp/htdocs/Xampp7/" local="131148774856245091" remote="131148774850000000" Dst="0" />
+<file name="usuarios_modificar.php" server="C:/xampp/htdocs/Xampp7/" local="131148463010486068" remote="131148463010000000" Dst="0" />
+<file name="index.php" server="C:/xampp/htdocs/Xampp7/" local="131151510157560442" remote="131151510150000000" Dst="0" />
+<file name="usuarios_registrar.php" server="C:/xampp/htdocs/Xampp7/" local="131148462544221946" remote="131148462540000000" Dst="0" />
+<file name="usuarios_mod_info.php" server="C:/xampp/htdocs/Xampp7/" local="131148068717445776" remote="131148068710000000" Dst="0" />
+<file name="usuarios_mod_clave.php" server="C:/xampp/htdocs/Xampp7/" local="131142994039236152" remote="131142994030000000" Dst="0" />
+<file name="usuarios_eliminar.php" server="C:/xampp/htdocs/Xampp7/" local="131146559756409475" remote="131146559750000000" Dst="0" />
+<file name=".htaccess" server="C:/xampp/htdocs/Xampp7/" local="131100498107741517" remote="131100498100000000" Dst="0" />
+<file name="htaccess" server="C:/xampp/htdocs/Xampp7/" local="131115513169741394" remote="131115513160000000" Dst="0" />
+<file name="mensajeria_contactos.php" server="C:/xampp/htdocs/Xampp7/" local="131135091929496206" remote="131135091920000000" Dst="0" />
+<file name="contactos.php" server="C:/xampp/htdocs/Xampp7/" local="131148780800331799" remote="131148780800000000" Dst="0" />
+<file name="contactos_registrar.php" server="C:/xampp/htdocs/Xampp7/" local="131148461046964132" remote="131148461040000000" Dst="0" />
+<file name="contactos_modificar.php" server="C:/xampp/htdocs/Xampp7/" local="131148464242676738" remote="131148464240000000" Dst="0" />
+<file name="contactos_mod_info.php" server="C:/xampp/htdocs/Xampp7/" local="131146596286010766" remote="131146596280000000" Dst="0" />
+<file name="contactos_eliminar.php" server="C:/xampp/htdocs/Xampp7/" local="131142879252686439" remote="131142879250000000" Dst="0" />
+<file name="grupos.php" server="C:/xampp/htdocs/Xampp7/" local="131148778884235411" remote="131148778880000000" Dst="0" />
+<file name="grupos_eliminar.php" server="C:/xampp/htdocs/Xampp7/" local="131146345329874680" remote="131146345320000000" Dst="0" />
+<file name="grupos_mod_info.php" server="C:/xampp/htdocs/Xampp7/" local="131146520340640825" remote="131146520340000000" Dst="0" />
+<file name="grupos_modificar.php" server="C:/xampp/htdocs/Xampp7/" local="131148464004544244" remote="131148464000000000" Dst="0" />
+<file name="grupos_registrar.php" server="C:/xampp/htdocs/Xampp7/" local="131148464118366538" remote="131148464110000000" Dst="0" />
+<file name="usuarios_mod_foto.php" server="C:/xampp/htdocs/Xampp7/" local="131142921012616448" remote="131142921010000000" Dst="0" />
+<file name="usuarios_eli_foto.php" server="C:/xampp/htdocs/Xampp7/" local="131142994150712355" remote="131142994150000000" Dst="0" />
+<file name="comprobar_grupo_mod.php" server="C:/xampp/htdocs/Xampp7/" local="131145416082819068" remote="131145416080000000" Dst="0" />
+<file name="comprobar_grupo_add.php" server="C:/xampp/htdocs/Xampp7/" local="131145419012975882" remote="131145419010000000" Dst="0" />
+<file name="comprobar_usuarios_add.php" server="C:/xampp/htdocs/Xampp7/" local="131144003240530926" remote="131144003240000000" Dst="0" />
+<file name="comprobar_usuarios_mod.php" server="C:/xampp/htdocs/Xampp7/" local="131144003368269756" remote="131144003360000000" Dst="0" />
+<file name="comprobar_contacto_add.php" server="C:/xampp/htdocs/Xampp7/" local="131151665956166344" remote="131151665950000000" Dst="0" />
+<file name="comprobar_contacto_mod.php" server="C:/xampp/htdocs/Xampp7/" local="131146478000611616" remote="131146478000000000" Dst="0" />
+<file name="usuario.php" server="C:/xampp/htdocs/Xampp7/" local="131148462741387555" remote="131148462740000000" Dst="0" />
+<file name="comprobar_usuarios_reg.php" server="C:/xampp/htdocs/Xampp7/" local="131151490326095983" remote="131151490320000000" Dst="0" />
+<file name="cifrado - Copia.php" server="C:/xampp/htdocs/Xampp7/" local="131151712268607428" remote="131151712260000000" Dst="0" />
+</dwsync>

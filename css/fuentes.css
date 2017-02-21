@@ -1,0 +1,110 @@
+	/*@font-face {
+		font-family: 'thebit';
+		src: url('fonts/futuran-webfont-webfont.eot');
+		src: url('fonts/futuran-webfont-webfont.eot?#iefix') format('embedded-opentype'),
+		url('fonts/futuran-webfont-webfont.woff') format('woff'),
+		url('fonts/futuran-webfont-webfont.ttf') format('truetype'),
+		url('fonts/futuran-webfont-webfont.svg#futura_bk_btbook') format('svg');
+	}*/
+	
+	@font-face {
+		font-family: "Alex-Arenski";
+		font-style: normal;
+		font-weight: normal;
+		src: url("../fonts/Arenski.ttf") format("truetype");
+	}
+	@font-face {
+		font-family: "Alex-Bellerose";
+		font-style: normal;
+		font-weight: normal;
+		src: url("../fonts/Bellerose.ttf") format("truetype");
+	}
+	@font-face {
+		font-family: "Alex-Balmoral";
+		font-style: normal;
+		font-weight: normal;
+		src: url("../fonts/Balmoral.ttf") format("truetype");
+	}
+	@font-face {
+		font-family: "Alex-CaviarDreams";
+		font-style: normal;
+		font-weight: normal;
+		src: url("../fonts/CaviarDreams.ttf") format("truetype");
+	}
+	
+	@font-face {
+		font-family: "Alex-CaviarDreamsBold";
+		font-style: normal;
+		font-weight: normal;
+		src: url("../fonts/CaviarDreamsBold.ttf") format("truetype");
+		/*url("fonts/Magnificent.woff") format("woff")*/ 
+	}
+	
+	@font-face {
+		font-family: "Alex-ConeriaScript";
+		font-style: normal;
+		font-weight: normal;
+		src: url('../fonts/ConeriaScript.eot');
+		src: url('../fonts/ConeriaScript.eot?#iefix') format('embedded-opentype'),
+		url("../fonts/ConeriaScript.ttf") format("truetype");
+		/*url("fonts/Magnificent.woff") format("woff")*/ 
+	}
+	
+	@font-face {
+		font-family: "Alex-CrimsonRoman";
+		font-style: normal;
+		font-weight: normal;
+		src: url('../fonts/CrimsonRoman.eot');
+		src: url('../fonts/CrimsonRoman.eot?#iefix') format('embedded-opentype'),
+		url("../fonts/CrimsonRoman.otf") format("opentype");
+		/*url("fonts/Magnificent.woff") format("woff")*/ 
+	}
+	
+	@font-face {
+		font-family: "Alex-FrancoisOne";
+		font-style: normal;
+		font-weight: normal;
+		src: url("../fonts/FrancoisOne.ttf") format("truetype");
+		/*url("fonts/Magnificent.woff") format("woff")*/ 
+	}
+	
+	@font-face {
+		font-family: "Alex-Gentium";
+		font-style: normal;
+		font-weight: normal;
+		src: url("../fonts/Gentium.ttf") format("truetype");
+		/*url("fonts/Magnificent.woff") format("woff")*/ 
+	}
+	
+	@font-face {
+		font-family: "Alex-GenBkBasI";
+		font-style: normal;
+		font-weight: normal;
+		src: url("../fonts/GenBkBasI.ttf") format("truetype");
+		/*url("fonts/Magnificent.woff") format("woff")*/ 
+	}
+	
+	@font-face {
+		font-family: "Alex-KeepCalm";
+		font-style: normal;
+		font-weight: normal;
+		src: url('../fonts/KeepCalmMedium.eot');
+		src: url('../fonts/KeepCalmMedium.eot?#iefix') format('embedded-opentype'),
+		url("../fonts/KeepCalmMedium.ttf") format("truetype");
+	}
+	
+	@font-face {
+		font-family: "Alex-Magnificent";
+		font-style: normal;
+		font-weight: normal;
+		src: url("../fonts/Magnificent.ttf") format("truetype");
+		/*url("fonts/Magnificent.woff") format("woff")*/ 
+	}
+	
+	@font-face {
+		font-family: "Alex-MilasianCirca";
+		font-style: normal;
+		font-weight: normal;
+		src: url("../fonts/MilasianCirca.ttf") format("truetype");
+		/*url("fonts/Magnificent.woff") format("woff")*/ 
+	}
